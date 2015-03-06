@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Mario {
+public class MarioCommand {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
